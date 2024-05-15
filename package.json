@@ -1,0 +1,21 @@
+{
+  "name": "nmj_bmi_calculator_with_inquirer",
+  "version": "1.0.4",
+  "description": "bmi_calculator_with_inquirer ",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "nmj_bmi_calculator_with_inquirer": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NIMRAH MUHAMMAD JAWAID",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
